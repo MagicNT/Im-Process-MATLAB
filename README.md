@@ -1,7 +1,7 @@
 # Image Processing in MATLAB
 
 ## About
-This an image processing tool written and implemented on MATLAB.
+This is an image processing tool written and implemented on MATLAB.
 
 ## Screenshots
 
